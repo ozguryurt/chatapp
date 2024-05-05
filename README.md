@@ -1,3 +1,6 @@
+Used tools:
+React, TailwindCSS, Zustand, NodeJS, Express, SocketIO.
+
 Preview:
 
 
